@@ -16,8 +16,8 @@ description: an attempt at organizing repos cody is working with at Brown
 </thead>
 <tbody>
 <tr>
-<td markdown="span">OCR-HTR TUTORIAL</td>
-<td markdown="span">(https://ccarvel.github.io/ocr-htr-tutorial/)</td>
+<td markdown="span"></td>
+<td markdown="span">[OCR-HTR TUTORIAL](https://ccarvel.github.io/ocr-htr-tutorial/)</td>
 </tr>
 <tr>
 <td markdown="span">Second column **fields**</td>
