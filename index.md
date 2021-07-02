@@ -10,7 +10,7 @@ description: an attempt at organizing repos cody is working with at Brown
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="uc.png" alt="brown university library logo"</th>
+<th><img src="uc.png" alt="brown university library logo"></th>
 <th>Repo Links</th>
 </tr>
 </thead>
