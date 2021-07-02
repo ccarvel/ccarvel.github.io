@@ -22,7 +22,6 @@ description: an attempt at organizing repos cody is working with at Brown
 <tr>
 <td markdown="span"></td>
 <td markdown="span"></td>
-</td>
 </tr>
 </tbody>
 </table>
