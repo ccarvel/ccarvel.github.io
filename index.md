@@ -20,8 +20,8 @@ description: an attempt at organizing repos cody is working with at Brown
 <td markdown="span">[OCR-HTR TUTORIAL](https://ccarvel.github.io/ocr-htr-tutorial/)</td>
 </tr>
 <tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
+<td markdown="span"></td>
+<td markdown="span"></td>
 </td>
 </tr>
 </tbody>
