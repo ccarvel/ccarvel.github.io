@@ -3,6 +3,26 @@ layout: default
 title: projects in progress, working
 description: an attempt at organizing repos cody is working with at Brown
 ---
-|<img src="uc.png" alt="brown university library logo" style="width:64px"/>|repository link|
-|-------|--------|
-|-------|[OCR-HTR TUTORIAL](https://ccarvel.github.io/ocr-htr-tutorial)|
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><img src="uc.png" alt="brown university library logo"</th>
+<th>Repo Links</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">OCR-HTR TUTORIAL</td>
+<td markdown="span">(https://ccarvel.github.io/ocr-htr-tutorial/)</td>
+</tr>
+<tr>
+<td markdown="span">Second column **fields**</td>
+<td markdown="span">Some more descriptive text.
+</td>
+</tr>
+</tbody>
+</table>
